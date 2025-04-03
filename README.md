@@ -13,7 +13,6 @@ Image Generator: Creates images based on the text input and emotion analysis usi
 Style Transfer: Applies artistic styles to generated images
 
 Installation reqirements:
-Requirements
 Python 3.8+
 PyTorch 1.13+
 CUDA-capable GPU (recommended)
